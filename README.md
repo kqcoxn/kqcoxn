@@ -1,14 +1,8 @@
-<!-- title -->
-
 ## 👋 你好！这里是 kqcoxn/codax 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kqcoxn)
 [![Bilibili](https://img.shields.io/badge/-bilibili-%23F37697?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/49804008)
 [![zhihu](https://img.shields.io/badge/-知乎-1772f6?style=flat&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/codax-16)
-
-&nbsp;
-
-<!-- introduce -->
 
 **来点个人介绍:**
 
@@ -16,9 +10,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 Still Learning: MSc in SE 在读，欢迎提供建议！
-- 🌱 Still Exploring: 热爱编程，主攻前端;
-- 👯 Still Looking: 在维护一些开源项目，期待与您的合作 🤝;
-- 📫 How to Reach me: mjy03730@163.com;
+- 🌱 Still Exploring: 热爱编程，主攻前端
+- 👯 Still Looking: 在维护一些开源项目，期待与您的合作 🤝
+- 📫 How to Reach me: mjy03730@163.com
 
 **Languages and Tools:**
 
