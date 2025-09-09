@@ -2,7 +2,6 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kqcoxn)
 [![Bilibili](https://img.shields.io/badge/-bilibili-%23F37697?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/49804008)
-[![zhihu](https://img.shields.io/badge/-知乎-1772f6?style=flat&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/codax-16)
 
 **来点个人介绍:**
 
