@@ -9,8 +9,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 Still Learning: MSc in SE 在读，折腾一些 MIS​​eg/RAG
-- 🌱 Still Exploring: 热爱编程，主攻前端，业余游戏
-- 🤝 Still Looking: 在维护一些开源项目，期待与您的合作
+- 🌱 Still Exploring: 热爱编程，主攻前端
+- 🤝 Still Looking: 维护一些社区项目，期待与您的合作
 - 📫 How to Reach me: mjy03730@163.com
 
 **Languages and Tools:**
