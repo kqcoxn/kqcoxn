@@ -10,14 +10,14 @@
 
 - 👨🏽‍💻 Still Learning: MSc in SE, Agent & Prompt
 - 🌱 Still Exploring: 热爱编程，主攻前端
-- 🤝 Still Looking: 维护一些社区项目，期待与您的合作
+- 🤝 Still Looking: 维护一些社区项目，期待与您合作
 - 📫 How to Reach me: mjy03730@163.com
 
 **Languages and Tools:**
 
 <p>
   <a href="https://github.com/kqcoxn">
-    <img width="55%" align="right" alt="kqcoxn's github stats" src="https://github-readme-stats.vercel.app/api?username=kqcoxn&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="kqcoxn's github stats" src="https://readme-status-tau.vercel.app/api?username=kqcoxn&show_icons=true&hide_border=true" />
   </a>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
