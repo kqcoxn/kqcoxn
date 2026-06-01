@@ -8,7 +8,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 Still Learning: MSc in SE, Agent & Prompt
+- 👨🏽‍💻 Still Learning: MSc in SE, Agent Memory / RAG
 - 🌱 Still Exploring: 热爱编程，主攻前端
 - 🤝 Still Looking: 维护一些社区项目，期待与您合作
 - 📫 How to Reach me: mjy03730@163.com
