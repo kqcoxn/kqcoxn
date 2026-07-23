@@ -2,7 +2,6 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kqcoxn)
 [![Bilibili](https://img.shields.io/badge/-bilibili-%23F37697?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/49804008)
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/kqcoxn)](https://githubroast.dev/u/kqcoxn)
 
 **来点个人介绍:**
 
